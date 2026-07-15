@@ -21,10 +21,11 @@ I enjoy turning tedious, repetitive workflows into reliable software while conti
 
 ### ⭐ Featured Public Projects
 
-- 🚗 Colorado DMV Appointment Watcher
-- 🤖 Job Radar
-- 🧪 QA Wolf Take-Home Assessment
-- 📂 Compartment Mail
+- 🚗 **[Colorado DMV Appointment Watcher](https://github.com/hmw55/co-dmv-appointment-watcher)** — Browser automation with Playwright and real-time notifications.
+- 🤖 **[Job Radar](https://github.com/hmw55/job-radar)** — ATS aggregation platform that monitors jobs and delivers personalized alerts.
+- 🧪 **[QA Wolf Take-Home Assessment](https://github.com/hmw55/qa-wolf-take-home-assessment)** — Playwright assessment validating the newest 100 Hacker News posts.
+- 📬 **[Compartment Mail](https://github.com/hmw55/compartment-mail)** — Local-first email client focused on privacy and workflow isolation.
+
 
 ### 💻 Tech
 
@@ -39,10 +40,8 @@ TypeScript • React • Next.js • Python • FastAPI • Java • PostgreSQL 
 
 ### 📫 Connect
 
-🌐 Portfolio
-
-💼 LinkedIn
-
+🌐 [Portfolio](https://hollandmwesley.com)
+💼 [LinkedIn](https://www.linkedin.com/in/holland-m-wesley-6a7040400/)
 📧 holland@hollandmwesley.com
 
 <!--
