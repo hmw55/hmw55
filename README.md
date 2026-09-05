@@ -5,13 +5,15 @@ Software Engineer building thoughtful software that solves real-world problems t
 I enjoy turning tedious, repetitive workflows into reliable software while continuously learning new technologies and engineering practices.
 
 📍 Denver, CO
+
 🎓 B.S. Software Engineering | M.S. Software Engineering (DevOps)
+
 💼 Open to Software Engineering opportunities
 
-### 🔭 I’m currently working on 
+### 🔭 I’m currently working on
+
 - 📚 **Corelato** *(private)* — A full-stack learning platform for notes, flashcards, courses, and long-term knowledge management.
 - 🤖 **Job Radar** — An automation platform that monitors multiple ATS job boards and delivers personalized job alerts.
-- 📬 **Compartment Mail** — A local-first email client focused on privacy and workflow isolation.
 
 ### 🌱 I’m currently learning 
 
@@ -21,11 +23,10 @@ I enjoy turning tedious, repetitive workflows into reliable software while conti
 
 ### ⭐ Featured Public Projects
 
-- 🚗 **[Colorado DMV Appointment Watcher](https://github.com/hmw55/co-dmv-appointment-watcher)** — Browser automation with Playwright and real-time notifications.
-- 🤖 **[Job Radar](https://github.com/hmw55/job-radar)** — ATS aggregation platform that monitors jobs and delivers personalized alerts.
-- 🧪 **[QA Wolf Take-Home Assessment](https://github.com/hmw55/qa-wolf-take-home-assessment)** — Playwright assessment validating the newest 100 Hacker News posts.
-- 📬 **[Compartment Mail](https://github.com/hmw55/compartment-mail)** — Local-first email client focused on privacy and workflow isolation.
-
+- 🌍 [**WorldScope**](https://github.com/hmw55/worldscope) — Interactive global data explorer built with Angular, TypeScript, D3, World Bank data, Natural Earth, and Open-Meteo.
+- 🚗 [**Colorado DMV Appointment Watcher**](https://github.com/hmw55/co-dmv-appointment-watcher) — Browser automation with Playwright and real-time notifications.
+- 🤖 [**Job Radar**](https://github.com/hmw55/job-radar) — ATS aggregation platform that monitors jobs and delivers personalized alerts.
+- 🧪 [**QA Wolf Take-Home Assessment**](https://github.com/hmw55/qa-wolf-take-home-assessment) — Playwright assessment validating the newest 100 Hacker News posts.
 
 ### 💻 Tech
 
