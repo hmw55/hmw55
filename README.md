@@ -12,11 +12,12 @@ I enjoy solving real-world problems, designing maintainable systems, and turning
 
 - 🌳 **[Root & Bower](https://rootandbower.com)** — A digital legacy platform helping individuals and families preserve stories, photographs, memories, and meaningful moments. Built with Next.js, TypeScript, PostgreSQL, Supabase, and Cloudflare R2.
 - 📚 **[Corelato](https://corelato.com)** — A full-stack learning and productivity platform for courses, notes, flashcards, and long-term knowledge management.
-- 🎮 **AI-Powered Fire TV Experience** — An immersive game concept combining Java, TypeScript, AI, and interactive real-world experiences for the Amazon Developer Challenge.
+- 🎮 **[Threshold: The Last Witness](https://github.com/hmw55/threshold)** — An open-source, AI-directed multiplayer mystery built for Amazon Fire TV. Connects native Kotlin TV applications, React/TypeScript mobile companions, and an AWS-hosted backend to transform real-world environments into interactive gameplay. **[Watch the demo](https://www.youtube.com/watch?v=UOPRjbpR6G0)**.
 - 🤖 **AI Home Monitoring Concept** — Exploring an intelligent robotic system that detects changes in home environments and identifies potential safety concerns.
 
 ### ⭐ Featured Public Projects
 
+- 🎮 **[Threshold: The Last Witness](https://github.com/hmw55/threshold)** — Open-source Fire TV adventure featuring AI-powered environmental analysis, multiplayer coordination, and real-world puzzles. Built with Kotlin, React, TypeScript, Node.js, Gemini, and AWS. **[v1.0.0 Release](https://github.com/hmw55/threshold/releases/tag/v1.0.0)** · **[Gameplay Trailer](https://www.youtube.com/watch?v=UOPRjbpR6G0)**.
 - 🌍 [**WorldScope**](https://github.com/hmw55/worldscope) — Interactive global data explorer built with Angular, TypeScript, D3, World Bank data, Natural Earth, and Open-Meteo.
 - 🚗 [**Colorado DMV Appointment Watcher**](https://github.com/hmw55/co-dmv-appointment-watcher) — Browser automation with Playwright and real-time notifications.
 - 🤖 [**Job Radar**](https://github.com/hmw55/job-radar) — ATS aggregation platform that monitors job boards and delivers personalized job alerts.
@@ -24,9 +25,11 @@ I enjoy solving real-world problems, designing maintainable systems, and turning
 
 ### 💻 Tech
 
-**Languages & Frameworks:** Java • Spring Boot • TypeScript • JavaScript • Python • React • Next.js • Angular • FastAPI
+**Languages & Frameworks:** Java • Kotlin • Spring Boot • TypeScript • JavaScript • Python • React • Next.js • Angular • Node.js • Express • FastAPI
 
-**Databases, Cloud & Tools:** PostgreSQL • MySQL • AWS • Docker • Supabase • Playwright • GitHub Actions • Linux
+**Databases, Cloud & Tools:** PostgreSQL • MySQL • SQLite • AWS (EC2, S3, IAM, CloudWatch, Systems Manager) • Docker • Supabase • Playwright • GitHub Actions • Linux
+
+**AI & Integrations:** Google Gemini • Ollama • REST APIs • Environmental Image Analysis
 
 ### 🌱 Currently Exploring
 
@@ -39,6 +42,7 @@ I enjoy solving real-world problems, designing maintainable systems, and turning
 - 🎓 B.S. in Software Engineering — Western Governors University, 2026
 - 📚 Pursuing an M.S. in Software Engineering (DevOps)
 - ☁️ AWS Certified Cloud Practitioner
+- - 🎮 Developed and released **[Threshold v1.0.0](https://github.com/hmw55/threshold/releases/tag/v1.0.0)** for the 2026 Amazon Developer Hackathon, integrating Fire TV, mobile interfaces, AI-assisted environmental analysis, and AWS cloud infrastructure.
 - 🏅 Software Design & QA Excellence Award
 - 🛠️ Designed, tested, and deployed full-stack applications, backend systems, and automation tools
 
